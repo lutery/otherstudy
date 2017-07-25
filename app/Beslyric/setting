@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting>
+	<shiftTime value="300"/>
+	<defaultMusicPath value=""/>
+	<defaultLyricPath value=""/>
+	<defaultOutputPath value=""/>
+	<autoUpdate value="1"/>
+</setting>
